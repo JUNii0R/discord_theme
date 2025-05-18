@@ -1,4 +1,3 @@
-/*! ClearVision v7.0.1 by ClearVision Team */
 @keyframes cv-channel-select {
   from {
     right: 100%;
@@ -17,7 +16,7 @@
   100% {
     opacity: 0.66;
   }
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .info__2debe::after {
   content: "ClearVision" " " "7.0.1";
   color: var(--text-muted);
@@ -46,7 +45,7 @@
   font-weight: 600;
   color: var(--text-muted);
   order: 3;
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .button__201d5 {
   border-radius: 4px;
 }
@@ -126,14 +125,14 @@
 }
 .lookLink__201d5.colorRed__201d5 {
   color: var(--hsl-danger-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .checkbox_f525d3 {
   border-radius: 4px;
 }
 .checkbox_f525d3.checked_f525d3 {
   border-color: var(--hsl-main-color);
   background-color: rgba(0, 0, 0, 0);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .input__0f084 {
   background: var(--hsl-input-shading);
   border-color: var(--hsl-input-border-shading);
@@ -158,7 +157,7 @@
 }
 .copyInput_cedfaf .input__0f084 {
   background: rgba(0, 0, 0, 0);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .item__001a7[aria-checked="true"] {
   background-color: rgba(0, 0, 0, 0);
 }
@@ -188,7 +187,7 @@
 }
 .item__001a7[aria-checked="true"] .radioBar__001a7 {
   background-color: var(--radio-bar-accent-color, var(--hsl-main-color));
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .slider_a562c8 .bar_a562c8,
 .slider_a562c8 .markDash_a562c8 {
   background: var(--hsl-card-shading);
@@ -198,7 +197,7 @@
 }
 .slider_a562c8 .grabber_a562c8 {
   filter: drop-shadow(0 0 3px var(--hsl-main-color));
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .container__87bf1 {
   background: hsl(from var(--interactive-normal) h s l/0.2) !important;
 }
@@ -207,7 +206,7 @@
 }
 .container__87bf1.checked__87bf1 path {
   fill: var(--hsl-main-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .top_b3f026 .item_b3f026 {
   --selected-tab-item-color: var(--hsl-hover-color);
 }
@@ -249,7 +248,7 @@
   flex-grow: 1;
   background: linear-gradient(to right, var(--hsl-main-color) 50%, transparent);
   margin-left: 5px;
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .container_a45028 {
   background: var(--hsl-input-shading);
   border-color: var(--hsl-input-border-shading);
@@ -265,7 +264,7 @@
 .visual-refresh .container_fea832:focus-within {
   border-color: var(--hsl-main-color);
   box-shadow: 0 0 2px 0 var(--hsl-main-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh :is(html, body, .appMount__51fd7) {
   background: none;
 }
@@ -297,7 +296,7 @@
 }
 .focus-rings-ring {
   box-shadow: 0 0 0 4px var(--focus-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 ::-moz-placeholder {
   font-family: var(--main-font);
 }
@@ -319,7 +318,7 @@ code {
 ::selection {
   background: var(--hsl-main-color);
   color: var(--text-normal);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .bar_c38106 {
   background-color: rgba(0, 0, 0, 0);
   padding-left: 0;
@@ -327,7 +326,7 @@ code {
 .leading_c38106 {
   gap: 0;
   margin: 0 6px;
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .notice__6e2b9 {
   border-radius: 4px;
   background: hsl(
@@ -342,7 +341,7 @@ code {
 }
 .colorStreamerMode__6e2b9 {
   --custom-notice-background: var(--hsl-streaming-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 :is(.auto__99f8c, .auto_d125d2)::-webkit-scrollbar {
   width: 14px;
 }
@@ -373,7 +372,7 @@ code {
     :is(.thin__99f8c, .thin_d125d2)
   )::-webkit-scrollbar-thumb:active {
   background-color: var(--hsl-hover-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .mediaBarProgress_b26b79,
 .mediaBarProgress_b26b79::before,
 .mediaBarProgress_b26b79::after {
@@ -383,7 +382,7 @@ code {
 .mediaBarInteraction_b26b79:hover .mediaBarGrabber_b26b79,
 .mediaBarInteractionDragging_b26b79 .mediaBarGrabber_b26b79 {
   background: var(--hsl-main-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .authBox__921c5 {
   background-color: var(--hsl-popout-shading);
 }
@@ -392,12 +391,12 @@ code {
 }
 .navRow__86e92 {
   background-color: rgba(0, 0, 0, 0);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .numberBadge__2b1f5,
 .textBadge__2b1f5 {
   background: var(--hsl-main-color) !important;
   color: var(--header-primary);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .refresh-fast-follow-guild-bg.visual-refresh .bg__960e4 {
   background: var(--background-image) var(--background-position) /
     var(--background-size) no-repeat;
@@ -407,7 +406,7 @@ code {
 }
 .refresh-fast-follow-guild-bg.visual-refresh .guilds_c48ade {
   background: rgba(0, 0, 0, 0);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .chat_f75fb0 {
   background: rgba(0, 0, 0, 0);
 }
@@ -442,7 +441,7 @@ code {
     from var(--hsl-background-shading) h s
       l/calc(var(--background-shading-percent) * 0.4)
   );
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .form_f75fb0 {
   margin-top: 4px;
 }
@@ -489,7 +488,7 @@ code {
 }
 .toolbar_bba883::before {
   border-top-color: var(--hsl-popout-shading);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .wrapper_cb9592,
 .visual-refresh .channelChatWrapper_cb9592 {
   background: rgba(0, 0, 0, 0);
@@ -531,7 +530,7 @@ code {
 }
 .quickSelectPopout_ebaca5 {
   background: var(--hsl-popout-shading);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .divider__908e2 {
   --divider-color: var(--hsl-main-color);
 }
@@ -561,7 +560,7 @@ code {
 .isUnread__908e2 .content__908e2::before,
 .isUnread__908e2 .content__908e2::after {
   background: var(--divider-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .avatar_c19a55 {
   transition: all 0.3s ease-in-out, transform 0.1s ease-in-out;
 }
@@ -758,7 +757,7 @@ code {
 .hoverButton__06ab4.selected__06ab4,
 .hoverButton__06ab4:hover {
   background: rgba(0, 0, 0, 0);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .container_f369db {
   background: hsl(
     from var(--hsl-background-shading) h s
@@ -869,7 +868,7 @@ code {
 .loadingCard_f369db {
   background: var(--hsl-card-shading);
   animation: cv-card-loading 1.5s infinite ease-in-out;
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .resizeHandle__01ae2 {
   background: rgba(0, 0, 0, 0);
 }
@@ -906,7 +905,7 @@ code {
 }
 .chatHeaderBar_a5700d {
   background-color: var(--hsl-popout-shading);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .newMessagesBar__0f481 {
   top: 4px;
   right: 8px;
@@ -931,7 +930,7 @@ code {
 .visual-refresh .wrapper__44df5 {
   background: var(--hsl-popout-shading);
   border: none;
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .reactions__23977 {
   border-radius: 4px;
 }
@@ -956,7 +955,7 @@ code {
 }
 .burstGlow__23977 {
   border-radius: 4px;
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .searchResultsWrap_a9e706 {
   background: hsl(
     from var(--hsl-background-shading) h s
@@ -980,7 +979,7 @@ code {
 .visual-refresh .button__02a39:hover {
   background: var(--hsl-hover-color);
   color: var(--interactive-active);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 :is(.theme-dark, .theme-light) .themed__9293f {
   background: hsl(
     from var(--hsl-background-shading) h s
@@ -1015,7 +1014,7 @@ code {
 .visual-refresh .searchAnswer_bd8186 {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .container_c8ffbb {
   background: none;
   border: none;
@@ -1176,7 +1175,7 @@ code {
 .ctaButton__4413f {
   background: var(--hsl-main-color);
   border: none;
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .root__49fc1 {
   background: var(--hsl-popout-shading);
   border: none;
@@ -1186,7 +1185,7 @@ code {
 .content__49fc1,
 .footer__49fc1 {
   background: rgba(0, 0, 0, 0);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .container_eb2cd2 {
   border: 2px solid rgba(0, 0, 0, 0);
   background: var(--background-modifier-accent);
@@ -1204,7 +1203,7 @@ code {
 .rowContainer__991a0:hover {
   border-color: var(--hsl-hover-color);
   background: var(--background-modifier-accent);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .keyboardShortcutsModal_f061f6,
 .keybindGroup_f061f6 {
   background: var(--hsl-popout-shading);
@@ -1216,7 +1215,7 @@ code {
 .combo_fcddc1 .key_fcddc1:active {
   border-color: var(--hsl-main-color);
   box-shadow: inset 0 -2px var(--hsl-main-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .quickswitcher_ac6cb0 {
   background: var(--hsl-popout-shading);
   border: none;
@@ -1240,13 +1239,13 @@ code {
 }
 .result__71961[aria-selected="true"] {
   background: var(--hsl-hover-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh :is(.scroller_cc2dff, .reactors_cc2dff) {
   background: rgba(0, 0, 0, 0);
 }
 .visual-refresh .reactionSelected_cc2dff {
   border: 1px solid var(--hsl-main-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .container_a55fdc {
   background: rgba(0, 0, 0, 0);
 }
@@ -1267,7 +1266,7 @@ code {
 }
 .selectorButton_c6d3dc.selectorButtonSelected_c6d3dc::before {
   background: var(--hsl-main-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .spinner_ca0af2 {
   background: rgba(0, 0, 0, 0);
 }
@@ -1315,13 +1314,13 @@ code {
 .value__96f95,
 .value__96f95:focus {
   box-shadow: none;
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .uploadDropModal_dbca3c .bgScale_dbca3c {
   background: var(--hsl-main-color);
 }
 .uploadDropModal_dbca3c .inner_dbca3c {
   border-color: var(--header-primary);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .selectorButton__0907c {
   background: var(--background-modifier-accent);
 }
@@ -1333,19 +1332,19 @@ code {
 }
 .visual-refresh .banReasonOtherClickable__837b7 {
   background: var(--background-modifier-accent);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .modal__9a792 {
   background: var(--hsl-popout-shading);
 }
 .visual-refresh .browser__9a792 {
   background: rgba(0, 0, 0, 0);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .pillOnline__921c5 {
   background: var(--hsl-online-color);
 }
 .visual-refresh .editProfileContainer__42179 {
   background: var(--hsl-popout-shading);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .scroller__6fd0e {
   background: rgba(0, 0, 0, 0);
 }
@@ -1363,7 +1362,7 @@ code {
 }
 .innerWrapper_b4589b {
   background: var(--hsl-popout-shading);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .header__0b563 {
   background: hsl(
     from var(--hsl-background-shading) h s
@@ -1433,7 +1432,7 @@ code {
 }
 .emptyPage__5d7c9 {
   background-color: rgba(0, 0, 0, 0);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .container__551b0 {
   background: hsl(
     from var(--hsl-background-shading) h s
@@ -1537,7 +1536,7 @@ code {
 .visual-refresh .modalContent_de2fa0,
 .visual-refresh .contentHeader_de2fa0 {
   background: rgba(0, 0, 0, 0);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .container__133bf {
   background: none;
   border: none;
@@ -1634,7 +1633,7 @@ code {
 }
 .emptyCard__7e549 {
   background-color: var(--hsl-card-shading);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .page_c791b2 {
   background: rgba(0, 0, 0, 0) !important;
 }
@@ -1650,13 +1649,13 @@ code {
 }
 .otherRoles__71c22 {
   background: var(--background-modifier-accent);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .list_f391e3 {
   background: hsl(
     from var(--hsl-background-shading) h s
       l/calc(var(--background-shading-percent) * 0.4)
   );
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .applicationStore_f07d62 {
   background: rgba(0, 0, 0, 0);
 }
@@ -1719,7 +1718,7 @@ code {
 }
 .innerWrapper_c511e4 {
   background: var(--hsl-popout-shading);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .background__7449f :is(.scrollerBase__99f8c, .scrollerBase_d125d2) {
   background: hsl(
     from var(--hsl-background-shading) h s
@@ -1740,7 +1739,7 @@ code {
 }
 .avatarWrapper__86ab2 {
   background: var(--hsl-card-shading);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .shopScroll__6db1d,
 .pageWrapper__6db1d {
   background: rgba(0, 0, 0, 0);
@@ -1783,17 +1782,17 @@ code {
 }
 .collectibleInfoContainer_c50f62 {
   background: rgba(0, 0, 0, 0);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .scroller__4a84a,
 .visual-refresh .scroller_fb04e1 {
   background: var(--hsl-card-shading);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .wrapper__4e6ce {
   background: rgba(0, 0, 0, 0);
 }
 .loadingPopout__58f1c {
   background: var(--hsl-popout-shading);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .autocomplete__13533 {
   background: var(--hsl-popout-shading);
   box-shadow: none;
@@ -1814,7 +1813,7 @@ code {
 .selected__1a58a,
 .selected__1a58a:hover {
   background: var(--hsl-main-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .lookFilled__3f413.select__3f413 {
   box-shadow: none;
 }
@@ -1857,7 +1856,7 @@ code {
 }
 .optionPillItem__3f413 .optionPillBtn__3f413 .optionPillBtn__3f413 {
   background: var(--hsl-main-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .recentMentionsPopout__95796 {
   background: var(--hsl-popout-shading);
   box-shadow: none;
@@ -1908,7 +1907,7 @@ code {
   background: var(--hsl-card-shading);
   border: none;
   margin: 0;
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .menu_c1e9c4 {
   background: var(--hsl-popout-shading);
   border: none;
@@ -1965,7 +1964,7 @@ code {
 }
 .focused_d40c56 .activeIcon_d40c56 circle {
   fill: var(--hsl-main-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .tooltipPrimary__382e7 {
   background-color: var(--hsl-popout-shading);
   border: none;
@@ -1983,7 +1982,7 @@ code {
 }
 .tooltipBrand__382e7 .tooltipPointer__382e7 {
   border-top-color: var(--hsl-main-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .contentWrapper__08434 {
   background: var(--hsl-popout-shading);
   border: none;
@@ -2064,7 +2063,7 @@ code {
 .firstPartyCategorySelected__3ad28,
 .firstPartyCategorySelected__3ad28:hover {
   background: var(--hsl-main-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .messagesPopoutWrap__45690 {
   background: var(--hsl-popout-shading);
   box-shadow: none;
@@ -2085,7 +2084,7 @@ code {
 .visual-refresh .jumpButton__45690:hover {
   background: var(--hsl-hover-color);
   color: var(--interactive-active);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .container__55c99 {
   background: var(--hsl-popout-shading);
   border: none;
@@ -2153,7 +2152,7 @@ code {
     .react-datepicker__day--disabled:hover
   ) {
   background: rgba(0, 0, 0, 0);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .browser_d98031 {
   background-color: var(--hsl-popout-shading);
   box-shadow: none;
@@ -2175,7 +2174,7 @@ code {
 }
 .popout__76f04 {
   background-color: var(--hsl-popout-shading);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .contentWrapper__9c62c {
   background: var(--hsl-popout-shading);
   box-shadow: none;
@@ -2255,7 +2254,7 @@ code {
 }
 .underline__761e5 {
   background: rgba(0, 0, 0, 0);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh :is(.picker__09f65, .picker__09f65.refresh__09f65) {
   background: var(--hsl-popout-shading);
 }
@@ -2280,7 +2279,7 @@ code {
     .focused__9be63
   ).hoverActiveBackground__9be63 {
   background: var(--hsl-card-shading);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .popoutContainer__0f481 {
   background: var(--hsl-popout-shading);
   box-shadow: none;
@@ -2324,7 +2323,7 @@ code {
 }
 .visual-refresh .container_b1bfd4 {
   background: var(--background-modifier-accent);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .full-motion .translate_faf9c0 {
   transform: unset !important;
 }
@@ -2409,7 +2408,7 @@ code {
     from var(--hsl-background-shading) h s
       l/calc(var(--background-shading-percent) * 0.3)
   );
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .outer_c0bea0:not(.custom-user-profile-theme) .role_dfa8b6 {
   border-radius: 4px;
   position: relative;
@@ -2449,7 +2448,7 @@ code {
 .visual-refresh .container__3dde2 {
   background: var(--hsl-popout-shading);
   border: none;
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .mask__44b0c rect[fill*="#82838b"] {
   fill: var(--hsl-offline-color);
 }
@@ -2464,7 +2463,7 @@ code {
 }
 .mask__44b0c rect[fill*="#9147ff"] {
   fill: var(--hsl-streaming-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .layer__960e4 {
   background-color: rgba(0, 0, 0, 0);
 }
@@ -2536,7 +2535,7 @@ code {
 .default_e18686,
 .default_e18686:hover {
   background-color: var(--hsl-popout-shading);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .standardSidebarView__23e6b {
   background: rgba(0, 0, 0, 0);
 }
@@ -2546,7 +2545,7 @@ code {
       l/calc(var(--background-shading-percent) * 0.3)
   );
   padding: 20px 8px 60px 20px;
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .selectedBackground_e681d1 {
   background: rgba(0, 0, 0, 0);
 }
@@ -2724,7 +2723,7 @@ code {
 .groupCollapsedContainer__9d98d,
 .groupContainer__9d98d {
   background: rgba(0, 0, 0, 0);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .settingCard__1a4ef,
 .settingCard__1a4ef.active__1a4ef {
   background: var(--hsl-card-shading);
@@ -2764,7 +2763,7 @@ code {
 }
 .allow__344e6.selected__344e6 {
   background-color: hsl(from var(--hsl-success-color) h s l/0.6);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .itemSelected_ec9088 {
   border: 2px solid var(--hsl-main-color);
 }
@@ -2953,7 +2952,7 @@ code {
 }
 .analyticsCard__5931c {
   background: var(--hsl-card-shading);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .panels_c48ade {
   background: hsl(
     from var(--hsl-background-shading) h s
@@ -3010,7 +3009,7 @@ code {
 }
 .contentInteractable__636a2 .submenuIcon__636a2 {
   color: var(--interactive-normal);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .keyboard-mode .focusStroke_cc5dd2 {
   stroke: var(--focus-color);
   stroke-width: 4px;
@@ -3070,7 +3069,7 @@ code {
 }
 .iconBadge__2b1f5.isCurrentUserConnected__650eb {
   background: var(--hsl-main-color);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .wrapperCommon__29444 .mainContent__29444 .name__29444 {
   flex: 1;
 }
@@ -3129,7 +3128,7 @@ code {
 }
 .icon__29444 {
   display: none;
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .newChannel__599fa {
   background: var(--hsl-main-color) !important;
   color: var(--header-primary);
@@ -3291,7 +3290,7 @@ code {
 }
 .voiceUser__07f91 .usernameSpeaking__07f91 {
   color: #fff;
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .visual-refresh .privateChannels__35e86 {
   background: hsl(
     from var(--hsl-background-shading) h s
@@ -3378,7 +3377,7 @@ code {
   .activityStatusText__972a0
   strong {
   color: var(--interactive-active);
-} /*! ClearVision v7.0.1 by ClearVision Team */
+}
 .platform-win .sidebar_c48ade {
   border-radius: 0;
 }
@@ -3478,7 +3477,7 @@ code {
   --streaming-color: #593695;
   --offline-color: #808080;
   --background-shading-percent: 100%;
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg);
+/*   --background-image: url(); */
   --background-position: center;
   --background-size: cover;
   --background-attachment: fixed;
